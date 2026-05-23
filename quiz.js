@@ -108,7 +108,7 @@
       subhead: "You're dealing with something real and you're outside Denver. Here's how we work together.",
       bullets: [
         'Video eval to assess movement and loading patterns',
-        'Customized training modifications so you don't lose progress',
+        "Customized training modifications so you don't lose progress",
         'Programming adjustments built around your comp timeline',
         'Ongoing async access to Dr. Sam',
       ],
